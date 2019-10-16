@@ -11,6 +11,9 @@ using a web project.
 
 ## Purpose
 
+As stated above,the main purpose is to
+provide simple example for Git training demos.
+
 ## Deployment
 
 ## How To Contribute
